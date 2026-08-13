@@ -1,0 +1,10 @@
+{
+    "dictionary": "DICT_4X4_50",
+    "squares_x": 6,
+    "squares_y": 9,
+    "square_length_mm": 28.0,
+    "marker_length_mm": 20.0,
+    "board_width_mm": 168.0,
+    "board_height_mm": 252.0,
+    "dpi": 300
+}
